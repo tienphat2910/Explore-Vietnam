@@ -1,0 +1,309 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "map": "Bản đồ",
+    "destinations": "Điểm đến",
+    "cuisine": "Ẩm thực",
+    "timeline": "Văn hóa",
+    "travel": "Thông tin Du lịch"
+  },
+  "hero": {
+    "headline": "Việt Nam – Cội nguồn vĩnh cửu, tương lai vô hạn",
+    "subheadline": "Một quốc gia với cảnh quan hùng vĩ, thành phố sôi động, di sản cổ xưa và những kỷ niệm khó quên.",
+    "ctaPrimary": "Bắt đầu khám phá",
+    "ctaSecondary": "Xem 34 Tỉnh Thành"
+  },
+  "about": {
+    "title": "Về Việt Nam",
+    "narrative": "Việt Nam, một vùng đất ngập tràn hơn 4.000 năm lịch sử, là quê hương của hơn 100 dân tộc và hơn 100 triệu người dân kiên cường. Di sản tinh thần của nó kết hợp sự thanh bình của Phật giáo, trí tuệ Khổng giáo và truyền thống dân gian sôi động. Ngày nay, Việt Nam đón nhận sự phát triển hiện đại nhanh chóng, tăng trưởng công nghệ và sự trỗi dậy kinh tế, tạo nên một tấm thảm độc đáo nơi những kỳ quan cổ xưa cùng tồn tại với sự đổi mới đương đại.",
+    "stats": {
+      "coastline": "3.260 km bờ biển",
+      "unesco": "8 Di sản Thế giới UNESCO",
+      "provinces": "34 tỉnh thành",
+      "motorbike": "Văn hóa xe máy: nổi tiếng thế giới vì sự sôi động và phổ biến"
+    }
+  },
+  "map": {
+    "title": "Khám phá các Tỉnh của Việt Nam",
+    "legend": "Chú giải",
+    "north": "Miền Bắc",
+    "central": "Miền Trung",
+    "south": "Miền Nam"
+  },
+  "destinations": {
+    "title": "Điểm đến nổi bật",
+    "hanoi": {
+      "name": "Hà Nội",
+      "caption": "Thủ đô nghìn năm văn hiến"
+    },
+    "hcmc": {
+      "name": "Thành phố Hồ Chí Minh",
+      "caption": "Nhịp điệu không thể dừng lại của tương lai Việt Nam"
+    },
+    "phuquoc": {
+      "name": "Phú Quốc",
+      "caption": "Ngọc trai vịnh với những bãi biển nguyên sơ"
+    },
+    "nhatrang": {
+      "name": "Nha Trang",
+      "caption": "Thiên đường ven biển với nước trong vắt"
+    },
+    "halong": {
+      "name": "Vịnh Hạ Long",
+      "caption": "Nơi đại dương ngọc lục bảo khắc họa những nhà thờ đá"
+    },
+    "hoian": {
+      "name": "Hội An",
+      "caption": "Những chiếc đèn lồng lấp lánh như những lời chúc trôi nổi"
+    },
+    "sapa": {
+      "name": "Sa Pa",
+      "caption": "Những thửa ruộng bậc thang thở qua mây mù"
+    },
+    "hue": {
+      "name": "Huế",
+      "caption": "Một vương quốc im lặng của nỗi nhớ màu tím"
+    },
+    "danang": {
+      "name": "Đà Nẵng",
+      "caption": "Những cây cầu hiện đại gặp gỡ bờ biển cổ xưa"
+    },
+    "hcmc": {
+      "name": "Thành phố Hồ Chí Minh",
+      "caption": "Nhịp điệu không thể dừng lại của tương lai Việt Nam"
+    },
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "cuisine": {
+    "title": "Tinh Hoa Ẩm Thực Việt Nam",
+    "pho": {
+      "name": "Phở",
+      "flavor": "nước dùng đậm đà, rau thơm tươi, thịt nướng hun khói",
+      "story": "Một món súp mì ấm áp có nguồn gốc từ miền Bắc Việt Nam, tượng trưng cho sự ấm áp của những buổi họp mặt gia đình.",
+      "quote": "Món ăn này mang theo nhiều thế hệ trong mỗi miếng."
+    },
+    "banhmi": {
+      "name": "Bánh Mì",
+      "flavor": "bánh mì giòn, rau muối, thịt thơm ngon",
+      "story": "Sự kết hợp của ảnh hưởng Pháp và Việt Nam, ra đời trong thời kỳ thuộc địa, giờ là món ăn đường phố phổ biến.",
+      "quote": "Một miếng lịch sử trong mỗi chiếc bánh mì."
+    },
+    "buncha": {
+      "name": "Bún Chả",
+      "flavor": "thịt nướng, mì vermicelli, rau thơm tươi",
+      "story": "Món ăn đặc trưng của Hà Nội, phản ánh di sản ẩm thực của thành phố và văn hóa ăn uống cộng đồng.",
+      "quote": "Nơi truyền thống gặp gỡ với lò nướng."
+    },
+    "banhxeo": {
+      "name": "Bánh Xèo",
+      "flavor": "bánh kếp giòn, tôm, thịt heo, rau xanh tươi",
+      "story": "Đặc sản miền Nam, thường được thưởng thức trong các bữa ăn gia đình và lễ hội.",
+      "quote": "Những món ngon giòn từ Đồng bằng sông Cửu Long."
+    },
+    "goicuon": {
+      "name": "Gỏi Cuốn",
+      "flavor": "rau thơm tươi, tôm, thịt heo, giấy gạo",
+      "story": "Nem cuốn tôn vinh những nguyên liệu tươi ngon của Việt Nam và truyền thống cuốn.",
+      "quote": "Sự tươi mát gói trong truyền thống."
+    },
+    "eggcoffee": {
+      "name": "Cà Phê Trứng",
+      "flavor": "lòng đỏ kem, cà phê mạnh, sữa đặc",
+      "story": "Một phát minh của Hà Nội, kết hợp văn hóa cà phê Pháp với sự sáng tạo địa phương.",
+      "quote": "Một vòng tay sủi bọt của các nghi thức buổi sáng."
+    },
+    "miquang": {
+      "name": "Mì Quảng",
+      "flavor": "mì nghệ, thịt heo, tôm, rau thơm",
+      "story": "Từ miền Trung Việt Nam, một món ăn làm nổi bật gia vị vùng miền và hương vị ven biển.",
+      "quote": "Ký ức cay nồng từ bờ biển miền Trung."
+    },
+    "nemlui": {
+      "name": "Nem Lụi",
+      "flavor": "xiên thịt nướng, sả, nước chấm",
+      "story": "Những xiên que thơm ngon nắm bắt bản chất của truyền thống nướng Việt Nam.",
+      "quote": "Những xiên que thơm ngon của niềm vui."
+    },
+    "bunbohue": {
+      "name": "Bún Bò Huế",
+      "flavor": "nước dùng bò cay, sả, thịt heo, bún",
+      "story": "Món bún cay từ Huế, nổi bật với hương vị đậm đà và gia vị vùng miền.",
+      "quote": "Sự ấm áp cay nồng từ kinh đô Huế."
+    },
+    "chagio": {
+      "name": "Chả Giò / Nem Rán",
+      "flavor": "vỏ giòn, thịt heo, tôm, rau củ",
+      "story": "Nem rán giòn là món ăn chủ đạo trong các buổi lễ và bữa ăn Việt Nam.",
+      "quote": "Những miếng cắn giòn của lễ hội."
+    },
+    "caphesuada": {
+      "name": "Cà Phê Sữa Đá",
+      "flavor": "cà phê mạnh, sữa đặc, đá",
+      "story": "Cà phê đá biểu tượng của Việt Nam, sự pha trộn hoàn hảo giữa ảnh hưởng Pháp và hương vị địa phương.",
+      "quote": "Ngọt ngào, mạnh mẽ và vô cùng sảng khoái."
+    },
+    "buncanha": {
+      "name": "Bún Cá Nha Trang",
+      "flavor": "bún cá, rau thơm, nước dùng cay",
+      "story": "Đặc sản ven biển từ Nha Trang, nổi bật với hải sản tươi và hương vị sống động.",
+      "quote": "Bún tươi từ biển từ bờ biển."
+    },
+    "caolau": {
+      "name": "Cao Lầu Hội An",
+      "flavor": "bún dày, thịt heo, rau thơm, nước dùng",
+      "story": "Món đặc trưng của Hội An, làm từ nước giếng cổ và nguyên liệu địa phương.",
+      "quote": "Hương vị cổ xưa từ di sản Hội An."
+    },
+    "banhcanhhe": {
+      "name": "Bánh Canh Hẹ Phú Yên",
+      "flavor": "bún dày, cua, thịt heo, rau thơm",
+      "story": "Món bún đậm đà từ Phú Yên, nổi bật với cua địa phương và cách chế biến truyền thống.",
+      "quote": "Sự ấm áp từ cua từ miền Nam."
+    },
+    "hutieu": {
+      "name": "Hủ Tiếu Mỹ Tho",
+      "flavor": "nước dùng trong, thịt heo, tôm, bún",
+      "story": "Món bún tinh tế từ Mỹ Tho, thể hiện sự tinh tế ẩm thực miền Nam Việt Nam.",
+      "quote": "Nước dùng tinh tế từ Đồng bằng sông Cửu Long."
+    },
+    "bunquay": {
+      "name": "Bún Quậy Phú Quốc",
+      "flavor": "bún, thịt nướng, rau thơm",
+      "story": "Phiên bản bún chả của Phú Quốc, nổi bật với nguyên liệu tươi từ đảo và hương vị hun khói.",
+      "quote": "Sự hoàn hảo nướng từ đảo."
+    }
+  },
+  "timeline": {
+    "title": "Dòng thời gian Văn hóa & Truyền thống",
+    "hungkings": "Các Vua Hùng & Văn hóa Việt sơ khai (~2879–258 TCN)",
+    "dongson": "Văn minh Đông Sơn (~1000 TCN–100 SCN)",
+    "buddhism": "Phật giáo & Chùa Chiền",
+    "confucian": "Trỗi dậy của Học thuật Khổng giáo (1000–1800 SCN)",
+    "dynasties": "Các Triều đại Hoàng gia (Lý, Trần, Lê, Nguyễn…)",
+    "folkarts": "Nghệ thuật Dân gian & Âm nhạc (Ca Trù, Quan Họ, Múa Rối Nước)",
+    "colonial": "Kiến trúc Thuộc địa Pháp (1858–1954)",
+    "literature": "Giáo dục & Văn học Thời Thuộc địa",
+    "vietnamwar": "Chiến tranh Việt Nam & Tác động Văn hóa (1955–1975)",
+    "streetfood": "Sự trỗi dậy của Văn hóa Đồ ăn Đường phố (Thế kỷ 20)",
+    "tet": "Lễ hội Tết (Truyền thống hàng nghìn năm)",
+    "aodai": "Sự tiến hóa Thời trang Áo Dài (Thế kỷ 18 đến nay)"
+  },
+  "travel": {
+    "title": "Thông tin Du lịch Thực tế",
+    "subtitle": "Mọi thứ bạn cần biết để có chuyến đi suôn sẻ và thú vị đến Việt Nam",
+    "weather": {
+      "title": "Thời tiết Theo Mùa",
+      "subtitle": "Thời điểm tốt nhất để thăm các vùng",
+      "north": {
+        "name": "Miền Bắc Việt Nam",
+        "best": "Tháng 10 đến Tháng 4",
+        "desc": "Mùa đông mát, khô (15-20°C) và mùa hè nóng, ẩm (25-35°C)"
+      },
+      "central": {
+        "name": "Miền Trung Việt Nam",
+        "best": "Tháng 2 đến Tháng 8",
+        "desc": "Khí hậu nhiệt đới gió mùa với mùa khô/mưa rõ rệt"
+      },
+      "south": {
+        "name": "Miền Nam Việt Nam",
+        "best": "Tháng 12 đến Tháng 4",
+        "desc": "Ấm áp quanh năm (25-32°C) với mùa mưa tháng 5-11"
+      }
+    },
+    "visa": {
+      "title": "Visa & Yêu cầu Nhập cảnh",
+      "subtitle": "Truy cập dễ dàng cho hầu hết du khách",
+      "evisa": "E-Visa Có sẵn",
+      "evisaDesc": "Đăng ký online cho 80+ quốc tịch, hiệu lực 30-90 ngày",
+      "visaOnArrival": "Visa Khi Đến",
+      "voaDesc": "Cho các nước đủ điều kiện tại sân bay lớn",
+      "exemptions": "Miễn Visa",
+      "exemptDesc": "Lên đến 45 ngày cho công dân Mỹ, EU, Anh, Nhật, Hàn Quốc"
+    },
+    "transport": {
+      "title": "Di chuyển Nội địa",
+      "subtitle": "Đa dạng và giá cả phải chăng",
+      "domestic": "Chuyến bay Nội địa",
+      "domesticDesc": "Kết nối nhanh giữa các thành phố lớn (1-2 giờ)",
+      "trains": "Đường sắt Việt Nam",
+      "trainsDesc": "Tuyến đường cảnh quan, toa nằm cho hành trình dài",
+      "buses": "Mạng lưới Xe buýt",
+      "busesDesc": "Xe buýt nằm thoải mái, phạm vi rộng",
+      "motorbikes": "Thuê Xe máy",
+      "motorbikesDesc": "Phổ biến cho sự linh hoạt, cần bằng lái quốc tế",
+      "taxis": "Dịch vụ Xe",
+      "taxisDesc": "Ứng dụng Grab, Gojek có tại các thành phố lớn"
+    },
+    "currency": {
+      "title": "Tiền tệ & Thanh toán",
+      "subtitle": "Đồng và các lựa chọn số hóa",
+      "dong": "Đồng Việt Nam (VND)",
+      "dongDesc": "Tiền tệ chính thức, ~26,000 VND = 1 USD",
+      "payments": "Phương thức Thanh toán",
+      "paymentsDesc": "Thẻ tín dụng, Apple Pay, Google Pay, chuyển khoản, tiền mặt, Ví điện tử"
+    },
+    "health": {
+      "title": "Sức khỏe & An toàn",
+      "subtitle": "Giữ sức khỏe khi khám phá",
+      "vaccinations": "Vắc xin Khuyến nghị",
+      "vaccinationsDesc": "Viêm gan A, Thương hàn, Dại cho lưu trú dài",
+      "medical": "Cơ sở Y tế",
+      "medicalDesc": "Bệnh viện tốt tại thành phố, khuyến nghị bảo hiểm du lịch",
+      "water": "Nước uống",
+      "waterDesc": "Khuyên dùng nước đóng chai, tránh nước máy",
+      "sun": "Bảo vệ Mặt trời",
+      "sunDesc": "UV mạnh trong khí hậu nhiệt đới, dùng kem chống nắng",
+      "safety": "An toàn Cá nhân",
+      "safetyDesc": "Nói chung an toàn, áp dụng các biện pháp tiêu chuẩn"
+    },
+    "communication": {
+      "title": "Liên lạc",
+      "subtitle": "Giữ liên lạc dễ dàng",
+      "sim": "SIM Thẻ địa phương",
+      "simDesc": "Dữ liệu rẻ, có tại sân bay và cửa hàng",
+      "wifi": "Khả năng WiFi",
+      "wifiDesc": "WiFi miễn phí tại khách sạn, quán cafe, sân bay",
+      "apps": "Ứng dụng Liên lạc",
+      "appsDesc": "Zalo, Facebook Messenger được sử dụng rộng rãi",
+      "roaming": "Chuyển vùng Quốc tế",
+      "roamingDesc": "Đắt đỏ, khuyến nghị SIM địa phương"
+    },
+    "etiquette": {
+      "title": "Nghi thức Văn hóa",
+      "subtitle": "Tôn trọng phong tục địa phương",
+      "greeting": "Lời chào",
+      "greetingDesc": "Bắt tay hoặc cúi đầu nhẹ, tránh chỉ chân",
+      "temples": "Thăm Chùa",
+      "templesDesc": "Tháo giày, ăn mặc khiêm tốn, tôn kính",
+      "bargaining": "Mặc cả",
+      "bargainingDesc": "Được mong đợi tại chợ, cười và thân thiện",
+      "photos": "Chụp ảnh",
+      "photosDesc": "Hỏi phép trước khi chụp ảnh người khác"
+    },
+    "accommodation": {
+      "title": "Nơi ở",
+      "subtitle": "Từ cao cấp đến tiết kiệm",
+      "hotels": "Khách sạn & Resort",
+      "hotelsDesc": "Chuỗi quốc tế và biệt thự boutique",
+      "hostels": "Hostel & Nhà nghỉ",
+      "hostelsDesc": "Tiết kiệm với không khí xã hội",
+      "airbnb": "Airbnb & Homestay",
+      "airbnbDesc": "Trải nghiệm địa phương và chỗ ở độc đáo",
+      "booking": "Mẹo đặt phòng",
+      "bookingDesc": "Đặt trước, đặc biệt mùa cao điểm"
+    }
+  },
+  "testimonials": {
+    "title": "Câu chuyện Du khách",
+    "quote1": "Việt Nam cảm thấy như một bài thơ được viết bằng ánh nắng và gió biển.",
+    "quote2": "Mỗi góc phố thì thầm lịch sử, nhưng lại đập mạnh với cuộc sống hiện đại."
+  },
+  "footer": {
+    "tagline": "Khám phá Việt Nam – Vùng đất của kỳ quan vượt thời gian",
+    "contact": "Liên hệ Chúng tôi",
+    "newsletter": "Đăng ký Bản tin của chúng tôi",
+    "email": "info@vietnamtourism.vn",
+    "phone": "+84 123 456 789",
+    "social": "Theo dõi Chúng tôi"
+  }
+}

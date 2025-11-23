@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [111.73078, 16.50103],
+              [111.78078, 16.51803],
+              [111.80078, 16.46803],
+              [111.75078, 16.44803],
+              [111.73078, 16.50103]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "name": "Hoàng Sa",
+        "slug": "hoang-sa",
+        "country": "Vietnam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [111.92031, 8.64514],
+              [111.95231, 8.65514],
+              [111.97231, 8.62514],
+              [111.93231, 8.61514],
+              [111.92031, 8.64514]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "name": "Trường Sa",
+        "slug": "truong-sa",
+        "country": "Vietnam"
+      }
+    }
+  ]
+}

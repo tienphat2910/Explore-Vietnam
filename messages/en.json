@@ -1,0 +1,309 @@
+{
+  "nav": {
+    "about": "About",
+    "map": "Map",
+    "destinations": "Destinations",
+    "cuisine": "Cuisine",
+    "timeline": "Culture",
+    "travel": "Travel Info"
+  },
+  "hero": {
+    "headline": "Vietnam – Timeless Roots, Boundless Tomorrow",
+    "subheadline": "A nation of breathtaking landscapes, vibrant cities, ancient heritage and unforgettable memories.",
+    "ctaPrimary": "Start Exploring",
+    "ctaSecondary": "View 34 Provinces"
+  },
+  "about": {
+    "title": "About Vietnam",
+    "narrative": "Vietnam, a land steeped in over 4,000 years of history, is home to more than 100 ethnic groups and over 100 million resilient people. Its spiritual heritage blends Buddhist tranquility, Confucian wisdom, and vibrant folk traditions. Today, Vietnam embraces rapid modern development, technological growth, and economic rise, creating a unique tapestry where ancient wonders coexist with contemporary innovation.",
+    "stats": {
+      "coastline": "3,260 km coastline",
+      "unesco": "8 UNESCO World Heritage Sites",
+      "provinces": "34 provinces",
+      "motorbike": "Motorbike culture: world-famous for its vibrancy and ubiquity"
+    }
+  },
+  "map": {
+    "title": "Explore Vietnam's Provinces",
+    "legend": "Legend",
+    "north": "North",
+    "central": "Central",
+    "south": "South"
+  },
+  "destinations": {
+    "title": "Featured Destinations",
+    "hanoi": {
+      "name": "Hanoi",
+      "caption": "The thousand-year-old capital city"
+    },
+    "hcmc": {
+      "name": "Ho Chi Minh City",
+      "caption": "The unstoppable rhythm of Vietnam's future"
+    },
+    "phuquoc": {
+      "name": "Phu Quoc",
+      "caption": "Pearl of the Gulf with pristine beaches"
+    },
+    "nhatrang": {
+      "name": "Nha Trang",
+      "caption": "Coastal paradise with crystal-clear waters"
+    },
+    "halong": {
+      "name": "Ha Long Bay",
+      "caption": "Where emerald oceans carve stone cathedrals"
+    },
+    "hoian": {
+      "name": "Hoi An",
+      "caption": "Lanterns glowing like floating wishes"
+    },
+    "sapa": {
+      "name": "Sapa",
+      "caption": "Terraces breathing through the clouds"
+    },
+    "hue": {
+      "name": "Hue",
+      "caption": "A silent kingdom of purple nostalgia"
+    },
+    "danang": {
+      "name": "Da Nang",
+      "caption": "Modern bridges meeting ancient shores"
+    },
+    "hcmc": {
+      "name": "Ho Chi Minh City",
+      "caption": "The unstoppable rhythm of Vietnam’s future"
+    },
+    "learnMore": "Learn More"
+  },
+  "cuisine": {
+    "title": "Essence of Vietnamese Cuisine",
+    "pho": {
+      "name": "Pho",
+      "flavor": "savory broth, fresh herbs, smoky grilled pork",
+      "story": "A comforting noodle soup that originated in northern Vietnam, symbolizing the warmth of family gatherings.",
+      "quote": "This dish carries generations in every bite."
+    },
+    "banhmi": {
+      "name": "Banh Mi",
+      "flavor": "crispy baguette, pickled vegetables, flavorful meats",
+      "story": "A fusion of French and Vietnamese influences, born during colonial times, now a street food staple.",
+      "quote": "A bite of history in every sandwich."
+    },
+    "buncha": {
+      "name": "Bun Cha",
+      "flavor": "grilled pork, vermicelli noodles, fresh herbs",
+      "story": "Hanoi's signature dish, reflecting the city's culinary heritage and communal dining culture.",
+      "quote": "Where tradition meets the grill."
+    },
+    "banhxeo": {
+      "name": "Banh Xeo",
+      "flavor": "crispy pancake, shrimp, pork, fresh greens",
+      "story": "A southern specialty, often enjoyed during family meals and festivals.",
+      "quote": "Crispy delights from the Mekong Delta."
+    },
+    "goicuon": {
+      "name": "Goi Cuon",
+      "flavor": "fresh herbs, shrimp, pork, rice paper",
+      "story": "Spring rolls that celebrate Vietnam's fresh ingredients and rolling tradition.",
+      "quote": "Freshness wrapped in tradition."
+    },
+    "eggcoffee": {
+      "name": "Ca Phe Trung",
+      "flavor": "creamy yolk, strong coffee, condensed milk",
+      "story": "A Hanoi invention, blending French coffee culture with local ingenuity.",
+      "quote": "A frothy embrace of morning rituals."
+    },
+    "miquang": {
+      "name": "Mi Quang",
+      "flavor": "turmeric noodles, pork, shrimp, herbs",
+      "story": "From central Vietnam, a dish that highlights regional spices and coastal flavors.",
+      "quote": "Spiced memories from the central coast."
+    },
+    "nemlui": {
+      "name": "Nem Lui",
+      "flavor": "grilled pork skewers, lemongrass, dipping sauce",
+      "story": "Aromatic skewers that capture the essence of Vietnamese grilling traditions.",
+      "quote": "Scented skewers of joy."
+    },
+    "bunbohue": {
+      "name": "Bun Bo Hue",
+      "flavor": "spicy beef broth, lemongrass, pork, noodles",
+      "story": "A spicy noodle soup from Hue, featuring bold flavors and regional spices.",
+      "quote": "Spicy warmth from the imperial city."
+    },
+    "chagio": {
+      "name": "Cha Gio / Fried Spring Rolls",
+      "flavor": "crispy wrapper, pork, shrimp, vegetables",
+      "story": "Crispy spring rolls that are a staple in Vietnamese celebrations and meals.",
+      "quote": "Crispy bites of celebration."
+    },
+    "caphesuada": {
+      "name": "Ca Phe Sua Da",
+      "flavor": "strong coffee, condensed milk, ice",
+      "story": "Vietnam's iconic iced coffee, a perfect blend of French influence and local taste.",
+      "quote": "Sweet, strong, and utterly refreshing."
+    },
+    "buncanha": {
+      "name": "Bun Ca Nha Trang",
+      "flavor": "fish noodles, herbs, spicy broth",
+      "story": "A coastal specialty from Nha Trang, featuring fresh seafood and vibrant flavors.",
+      "quote": "Ocean-fresh noodles from the coast."
+    },
+    "caolau": {
+      "name": "Cao Lau Hoi An",
+      "flavor": "thick noodles, pork, herbs, broth",
+      "story": "Hoi An's signature dish, made with water from ancient wells and local ingredients.",
+      "quote": "Ancient flavors from Hoi An's heritage."
+    },
+    "banhcanhhe": {
+      "name": "Banh Canh He Phu Yen",
+      "flavor": "thick noodles, crab, pork, herbs",
+      "story": "A hearty noodle soup from Phu Yen, featuring local crab and traditional preparation.",
+      "quote": "Crab-infused comfort from the south."
+    },
+    "hutieu": {
+      "name": "Hu Tieu My Tho",
+      "flavor": "clear broth, pork, shrimp, noodles",
+      "story": "A delicate noodle soup from My Tho, showcasing southern Vietnamese culinary finesse.",
+      "quote": "Delicate broth from the Mekong Delta."
+    },
+    "bunquay": {
+      "name": "Bun Quay Phu Quoc",
+      "flavor": "vermicelli, grilled pork, herbs",
+      "story": "Phu Quoc's take on bun cha, featuring island-fresh ingredients and smoky flavors.",
+      "quote": "Island grilled perfection."
+    }
+  },
+  "timeline": {
+    "title": "Culture & Traditions Timeline",
+    "hungkings": "Hung Kings & Early Vietnamese Culture (~2879–258 BCE)",
+    "dongson": "Dong Son Civilization (~1000 BCE–100 CE)",
+    "buddhism": "Buddhism & Pagodas",
+    "confucian": "Rise of Confucian Scholarship (1000–1800 CE)",
+    "dynasties": "Imperial Dynasties (Lý, Trần, Lê, Nguyễn…)",
+    "folkarts": "Folk Arts & Music (Ca Trù, Quan Họ, Water Puppetry)",
+    "colonial": "French Colonial Architecture (1858–1954)",
+    "literature": "Colonial-Era Education & Literature",
+    "vietnamwar": "Vietnam War & Cultural Impact (1955–1975)",
+    "streetfood": "Street-Food Culture Emergence (20th Century)",
+    "tet": "Tet Celebrations (Millennia-Old Tradition)",
+    "aodai": "Ao Dai Fashion Evolution (18th Century–Present)"
+  },
+  "travel": {
+    "title": "Practical Travel Information",
+    "subtitle": "Everything you need to know for a smooth and enjoyable trip to Vietnam",
+    "weather": {
+      "title": "Seasonal Weather",
+      "subtitle": "Best times to visit different regions",
+      "north": {
+        "name": "Northern Vietnam",
+        "best": "October to April",
+        "desc": "Cool, dry winters (15-20°C) and hot, humid summers (25-35°C)"
+      },
+      "central": {
+        "name": "Central Vietnam",
+        "best": "February to August",
+        "desc": "Tropical monsoon climate with distinct dry/wet seasons"
+      },
+      "south": {
+        "name": "Southern Vietnam",
+        "best": "December to April",
+        "desc": "Year-round warmth (25-32°C) with rainy season May-November"
+      }
+    },
+    "visa": {
+      "title": "Visa & Entry Requirements",
+      "subtitle": "Easy access for most travelers",
+      "evisa": "E-Visa Available",
+      "evisaDesc": "Online application for 80+ nationalities, 30-90 days validity",
+      "visaOnArrival": "Visa on Arrival",
+      "voaDesc": "For eligible countries at major airports",
+      "exemptions": "Visa Exemptions",
+      "exemptDesc": "Up to 45 days for US, EU, UK, Japan, South Korea citizens"
+    },
+    "transport": {
+      "title": "Getting Around",
+      "subtitle": "Diverse and affordable options",
+      "domestic": "Domestic Flights",
+      "domesticDesc": "Fast connections between major cities (1-2 hours)",
+      "trains": "Vietnam Railways",
+      "trainsDesc": "Scenic routes, sleeping cars for long journeys",
+      "buses": "Bus Networks",
+      "busesDesc": "Comfortable sleeper buses, extensive coverage",
+      "motorbikes": "Motorbike Rentals",
+      "motorbikesDesc": "Popular for flexibility, requires international license",
+      "taxis": "Ride Services",
+      "taxisDesc": "Grab, Gojek apps available in major cities"
+    },
+    "currency": {
+      "title": "Currency & Payments",
+      "subtitle": "Dong and digital options",
+      "dong": "Vietnamese Dong (VND)",
+      "dongDesc": "Official currency, ~26,000 VND = 1 USD",
+      "payments": "Payment Methods",
+      "paymentsDesc": "Credit card, Apple Pay, Google Pay, bank transfer, cash, E-wallet"
+    },
+    "health": {
+      "title": "Health & Safety",
+      "subtitle": "Stay healthy while exploring",
+      "vaccinations": "Recommended Vaccinations",
+      "vaccinationsDesc": "Hepatitis A, Typhoid, Rabies for extended stays",
+      "medical": "Medical Facilities",
+      "medicalDesc": "Good hospitals in cities, travel insurance recommended",
+      "water": "Drinking Water",
+      "waterDesc": "Bottled water advised, avoid tap water",
+      "sun": "Sun Protection",
+      "sunDesc": "Strong UV in tropical climate, use sunscreen",
+      "safety": "Personal Safety",
+      "safetyDesc": "Generally safe, standard precautions apply"
+    },
+    "communication": {
+      "title": "Communication",
+      "subtitle": "Stay connected easily",
+      "sim": "Local SIM Cards",
+      "simDesc": "Cheap data, available at airports and shops",
+      "wifi": "WiFi Availability",
+      "wifiDesc": "Free WiFi in hotels, cafes, and airports",
+      "apps": "Communication Apps",
+      "appsDesc": "Zalo, Facebook Messenger widely used",
+      "roaming": "International Roaming",
+      "roamingDesc": "Expensive, local SIM recommended"
+    },
+    "etiquette": {
+      "title": "Cultural Etiquette",
+      "subtitle": "Respect local customs",
+      "greeting": "Greetings",
+      "greetingDesc": "Handshake or slight bow, avoid foot pointing",
+      "temples": "Temple Visits",
+      "templesDesc": "Remove shoes, dress modestly, be respectful",
+      "bargaining": "Bargaining",
+      "bargainingDesc": "Expected in markets, smile and be friendly",
+      "photos": "Photography",
+      "photosDesc": "Ask permission before photographing people"
+    },
+    "accommodation": {
+      "title": "Where to Stay",
+      "subtitle": "From luxury to budget options",
+      "hotels": "Hotels & Resorts",
+      "hotelsDesc": "International chains and boutique properties",
+      "hostels": "Hostels & Guesthouses",
+      "hostelsDesc": "Budget-friendly with social atmosphere",
+      "airbnb": "Airbnb & Homestays",
+      "airbnbDesc": "Local experiences and unique stays",
+      "booking": "Booking Tips",
+      "bookingDesc": "Book in advance, especially during peak season"
+    }
+  },
+  "testimonials": {
+    "title": "Traveler Stories",
+    "quote1": "Vietnam feels like a poem written in sunlight and sea breeze.",
+    "quote2": "Every street corner whispers history, yet pulses with modern life."
+  },
+  "footer": {
+    "tagline": "Discover Vietnam – The land of timeless wonders",
+    "contact": "Contact Us",
+    "newsletter": "Subscribe to our Newsletter",
+    "email": "info@vietnamtourism.vn",
+    "phone": "+84 123 456 789",
+    "social": "Follow Us"
+  }
+}

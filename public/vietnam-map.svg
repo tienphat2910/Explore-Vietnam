@@ -1,0 +1,15 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .province { fill: #e0e0e0; stroke: #ffffff; stroke-width: 1; }
+      .north { fill: #00754A; }
+      .central { fill: #F4C542; }
+      .south { fill: #33B2A6; }
+    </style>
+  </defs>
+  <!-- Simplified Vietnam map outline -->
+  <path class="province north" d="M200,100 L300,80 L400,100 L450,150 L400,200 L350,180 L300,200 L250,180 L200,150 Z" />
+  <path class="province central" d="M200,150 L250,180 L300,200 L350,180 L400,200 L450,250 L400,300 L350,280 L300,300 L250,280 L200,250 Z" />
+  <path class="province south" d="M200,250 L250,280 L300,300 L350,280 L400,300 L450,350 L400,400 L350,380 L300,400 L250,380 L200,350 Z" />
+  <text x="400" y="50" text-anchor="middle" font-family="Arial" font-size="24" fill="#1A1A1A">Vietnam</text>
+</svg>
