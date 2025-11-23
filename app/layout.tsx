@@ -18,8 +18,9 @@ const playfairDisplay = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Khám phá Việt Nam - Vùng đất của kỳ quan vượt thời gian",
-  description: "Discover Vietnam – The land of timeless wonders"
+  icons: {
+    icon: "https://res.cloudinary.com/de5rurcwt/image/upload/v1763931470/21-512_sfoo4o.png"
+  }
 };
 
 export default function RootLayout({
