@@ -38,7 +38,7 @@
     },
     "hcmc": {
       "name": "Ho Chi Minh City",
-      "caption": "The unstoppable rhythm of Vietnam's future"
+      "caption": "The unstoppable rhythm of Vietnam’s future"
     },
     "phuquoc": {
       "name": "Phu Quoc",
@@ -67,10 +67,6 @@
     "danang": {
       "name": "Da Nang",
       "caption": "Modern bridges meeting ancient shores"
-    },
-    "hcmc": {
-      "name": "Ho Chi Minh City",
-      "caption": "The unstoppable rhythm of Vietnam’s future"
     },
     "learnMore": "Learn More"
   },

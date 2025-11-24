@@ -33,7 +33,12 @@
 - **Next.js 16** - App Router with latest features / App Router với tính năng mới nhất
 - **TypeScript** - Full type safety / An toàn kiểu dữ liệu hoàn toàn
 - **Tailwind CSS v4** - Utility-first styling / Styling tiện ích
-- **Internationalization** - next-intl for i18n / Quốc tế hóa với next-intl
+
+### Internationalization
+
+- **next-intl** - Complete internationalization solution
+- **Intlayer** - Automated translation management and testing
+- **Bilingual Support** - English & Vietnamese with automated sync
 
 ---
 
@@ -143,6 +148,19 @@ explore-vietnam/
 ```bash
 npm run build
 npm run start
+```
+
+### Intlayer Commands / Lệnh Intlayer
+
+```bash
+# Build translation dictionaries
+npm run intlayer:build
+
+# Test for missing translations
+npm run intlayer:test
+
+# Watch for translation changes
+npm run intlayer:watch
 ```
 
 ---
@@ -275,6 +293,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Framer Motion** - Amazing animations
 - **Tailwind CSS** - Utility-first styling
 - **Next.js** - The React framework
+- **Intlayer** - Advanced internationalization
+- **next-intl** - Internationalization framework
 
 ---
 
