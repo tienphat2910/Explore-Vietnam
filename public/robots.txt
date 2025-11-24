@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://explorevietnam.vercel.app/sitemap.xml
