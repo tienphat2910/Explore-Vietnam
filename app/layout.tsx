@@ -57,6 +57,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "https://res.cloudinary.com/de5rurcwt/image/upload/v1763931470/21-512_sfoo4o.png"
+  },
+  verification: {
+    google: "0t_LgP-ALl8DYktBI7I2nuGtaE7aUF4Fqu015ySICO8"
   }
 };
 
