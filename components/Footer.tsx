@@ -51,6 +51,22 @@ export default function Footer({ locale }: FooterProps) {
             </button>
           </div>
         </div>
+
+        {/* Copyright Section */}
+        <div className="mt-8 pt-8 border-t border-pure-white/20 text-center">
+          <p className="text-sm text-pure-white/80">
+            © {new Date().getFullYear()} Explore Vietnam. All rights reserved. |
+            Designed by{" "}
+            <a
+              href="https://phatnguyen.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-emerald-green hover:text-emerald-green/80 transition-colors duration-300 hover:underline"
+            >
+              Phat Nguyen
+            </a>
+          </p>
+        </div>
       </div>
     </footer>
   );
