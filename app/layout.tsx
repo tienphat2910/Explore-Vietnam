@@ -37,10 +37,10 @@ export const metadata: Metadata = {
     siteName: "Explore Vietnam",
     images: [
       {
-        url: "https://res.cloudinary.com/de5rurcwt/image/upload/v1763931470/21-512_sfoo4o.png",
+        url: "https://res.cloudinary.com/de5rurcwt/image/upload/v1754567963/LuTrip/anh-chup-man-hinh-2024-04-01-luc-12-crop-1711950811260_tulfat.png",
         width: 1200,
         height: 630,
-        alt: "Explore Vietnam - Travel Guide"
+        alt: "Explore Vietnam - Stunning Ha Long Bay"
       }
     ],
     locale: "en_US",
